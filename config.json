@@ -1,0 +1,12 @@
+{
+    "output_file_name": "output.txt",
+    "input_file_name": "links.txt",
+    "threads": 10,
+    "port_remover": false,
+    "protocol_remover": true,
+    "previous_proxies": true,
+    "duplicates_remover": true,
+    "clean_ip_port": true,
+    "remove_same_ip": true,
+	"remove_local": true
+}
