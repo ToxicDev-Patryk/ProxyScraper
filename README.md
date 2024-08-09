@@ -13,5 +13,5 @@ Simple Proxy Scraper written in Python.
 
 **Usage:**
 - Change config.json
-- Add Links to socks4.txt/socks5.txt/http.txt
+- Add Links to scrape
 - python3 ProxyScraper.py
