@@ -2,14 +2,13 @@
 Simple Proxy Scraper written in Python.
 
 **Features:**
-- Duplicates Remover
-- Port Remover
-- Previus Proxies
-- Protocol Remover
+- Duplicates remover
 - MultiThreaded
-- Well Optimized
-- Fully Customizable
-- Open Soruce
+- Protocol remover
+- previous proxies
+- Clean IP:Port (Removed everything except ip:port)
+- Remove local (Removes Local Addresses)
+- Highly Customizable
 
 **Usage:**
 - Change config.json
