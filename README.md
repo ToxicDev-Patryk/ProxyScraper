@@ -6,7 +6,6 @@ Simple Proxy Scraper written in Python.
 - Port Remover
 - Previus Proxies
 - Protocol Remover
-- JSON Scraper
 - MultiThreaded
 - Well Optimized
 - Fully Customizable
